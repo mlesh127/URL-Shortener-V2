@@ -1,12 +1,12 @@
 # URL Shortener Bot V2
 
 <p align="center">
-  <a href="https://github.com/kevinnadar22/URL-Shortener-V2/stargazers">
+  <a href="https://github.com/mlesh127/URL-Shortener-V2/stargazers">
     <img src="https://img.shields.io/github/stars/kevinnadar22/URL-Shortener-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/kevinnadar22/URL-Shortener-V2/fork">
+  <a href="https://github.com/mlesh127/URL-Shortener-V2/fork">
     <img src="https://img.shields.io/github/forks/kevinnadar22/URL-Shortener-V2?label=Fork&style=social">
 
   </a>  
@@ -56,7 +56,7 @@ You can deploy this bot anywhere.
 <p>Deploy To Heroku<P>
 <p>
 
-<a href="https://heroku.com/deploy?template=https://github.com/kevinnadar22/URL-Shortener-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/mlesh127/URL-Shortener-V2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -64,7 +64,7 @@ You can deploy this bot anywhere.
 Deploy to VPS
 <p>
 <pre>
-git clone https://github.com/kevinnadar22/URL-Shortener-V2
+git clone https://github.com/mlesh127/URL-Shortener-V2
 cd URL-Shortener-V2
 pip3 install -r requirements.txt
 # Change The Vars Of bot/config.py File Accordingly
