@@ -26,7 +26,7 @@
       "value": ""
     },
     "DROPLINK_API": {
-      "description": "Enter your DROPLINK API KEY only if METHOD is selected to droplink. Get your API from https://droplink.co/member/tools/api",
+      "description": "Enter your ZAGL API KEY only if METHOD is selected to droplink. Get your API from https://zagl.in/member/tools/api",
       "value": "0"
     },
     "MDISK_API": {
